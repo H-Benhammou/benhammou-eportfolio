@@ -1,5 +1,5 @@
 const profileData = {
-    name: "Hamza Benhammou",
+    name: "Hamza BENHAMMOU",
     title: "Ingénieur logiciel junior",
     location: "Rabat, Maroc",
     phone: "+2126-98656530",

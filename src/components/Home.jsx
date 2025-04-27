@@ -28,7 +28,7 @@ function Home() {
                 <button className="cta-button" onClick={() => window.open('resume.pdf', '_blank')}>
                     Télécharger CV
                 </button>
-                <button className="cta-button contact">Me Contacter</button>
+                
             </div>
         </section>
     );

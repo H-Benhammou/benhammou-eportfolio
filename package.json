@@ -1,5 +1,5 @@
 {
-  "name": "front_end",
+  "name": "benhammou-eportfolio",
   "homepage": "https://github.com/H-Benhammou.github.io/benhammou-eportfolio/",
   "private": true,
   "version": "0.0.0",
@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.5.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
